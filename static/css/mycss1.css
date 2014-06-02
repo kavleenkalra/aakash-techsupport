@@ -1,0 +1,26 @@
+.glass
+                {
+				width:1000px;
+                height:300px;
+                margin-left:5em;
+                margin-top:2em;
+                float:left;
+                padding:1em;
+                -moz-box-shadow:inset 0 0 10px #00FFFF;
+                -webkit-box-shadow: inset 0 0 10px #00FFFF;
+                box-shadow:inset 0 0 10px #00FFFF;
+                border-radius:20px}
+                
+                
+.glass1
+                {
+				width:100px;
+                height:280px;
+                margin-left:2em;
+                margin-top:2em;
+                float:left;
+                padding:1em;
+                -moz-box-shadow:inset 0 0 10px #00FFFF;
+                -webkit-box-shadow: inset 0 0 10px #00FFFF;
+                box-shadow:inset 0 0 10px #00FFFF;
+                border-radius:20px}

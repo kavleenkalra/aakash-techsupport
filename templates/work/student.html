@@ -1,0 +1,10 @@
+{% extends "submitpost.html" %}
+
+<html>
+	{% for student in students %}
+		<h1>{{student.roll_no}}</h1>
+		<p>{{student.name}}</p>
+		<p>{{student.Class}}</p>
+		<p>{{student.teacher_name}}</p>
+	{% endfor %}
+</html>
